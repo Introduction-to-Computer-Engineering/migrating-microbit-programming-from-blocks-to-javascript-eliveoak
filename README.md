@@ -107,6 +107,15 @@ When shook, the program will display the A presses, then the B presses, then the
 
 [Activity 3](v0.3.js)
 
+### v0.4
+
+**This program is just a simple rock-paper-scissors program, with a immediately giving feedback to which one is chosen. 
+Probably a bit better when it is played vs another player. When Pin P0 is pressed, it gives the score for Rock, Paper, and then
+Scissors, in that relative order.**
+
+[Activity 4](v0.4.js)
+
+
 ## Designs
 
 v0.1 Design 
@@ -122,6 +131,9 @@ v0.3 Design
 I decided to attempt to code 100% from my knowledge of the Blocks to JS, and this one wasn't exactly hard, but it was a bit time consuming, because I *smartly* decided to use the JS editor to manually input the LED commands. I had to look up how to do variables,
 but it's starting to come together.
 
+v0.4 Design
+
+I successfully wrote this program from scratch, I got a bit stuck on the if else statements but after a little bit of experimenting, I got it all to work. Definitely was a bit faster than even v0.3.
 
 ### Midterm project
 
