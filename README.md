@@ -90,22 +90,22 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**Makes a smiley face then changes to a frowny face. 
+**Makes a smiley face then changes to a frowny face.** 
 
-[Activity 1](v0.1.js)**
+[Activity 1](v0.1.js)
 
 ### v0.2
 
-**Makes an X when A is pressed, and a dot when B is pressed. When A+B are pressed simultaneously, it clears screen.
+**Makes an X when A is pressed, and a dot when B is pressed. When A+B are pressed simultaneously, it clears screen.**
 
-[Activity 2](v0.2.js)**
+[Activity 2](v0.2.js)
 
 ### v0.3 
 
 **Is a scorekeeper program, it keeps track of how many times you press the A button, the B button, and A+B Combined.
-When shook, the program will display the A presses, then the B presses, then the A+B presses in order.
+When shook, the program will display the A presses, then the B presses, then the A+B presses in order.**
 
-[Activity 3](v0.3.js)**
+[Activity 3](v0.3.js)
 
 
 ## Designs
