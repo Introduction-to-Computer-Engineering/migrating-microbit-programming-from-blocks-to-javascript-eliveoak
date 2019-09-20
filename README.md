@@ -90,7 +90,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**Makes a smiley face then changes to a frowny face [v.01]**
+**Makes a smiley face then changes to a frowny face [Activity 1] (v.01)**
 
 ### v0.2
 
