@@ -99,7 +99,7 @@ _**Note:** Add your program descriptions below._
 **Makes an X when A is pressed, and a dot when B is pressed. When A+B are pressed simultaneously, it clears screen.
 
 [Activity 2](v0.2.js)**
-**[etc.]**
+
 
 ## Designs
 
