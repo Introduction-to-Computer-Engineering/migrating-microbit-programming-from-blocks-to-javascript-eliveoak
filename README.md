@@ -107,6 +107,14 @@ When shook, the program will display the A presses, then the B presses, then the
 
 [Activity 3](v0.3.js)
 
+### v0.4
+
+**This program is just a simple rock-paper-scissors program, with a immediately giving feedback to which one is chosen. 
+Probably a bit better when it is played vs another player. When Pin P0 is pressed, it gives the score for Rock, Paper, and then
+Scissors, in that relative order.**
+
+[Activity 4](v0.4.js)
+
 
 ## Designs
 
