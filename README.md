@@ -100,6 +100,13 @@ _**Note:** Add your program descriptions below._
 
 [Activity 2](v0.2.js)**
 
+### v0.3 
+
+**Is a scorekeeper program, it keeps track of how many times you press the A button, the B button, and A+B Combined.
+When shook, the program will display the A presses, then the B presses, then the A+B presses in order.
+
+[Activity 3](v0.3.js)**
+
 
 ## Designs
 
@@ -110,6 +117,11 @@ Just basically looked at the JS code and edited it to make it something that was
 v0.2 Design 
 
 I decided to go essentially from the ground up on this one, but due to it being such a simple program again, it was relatively easy.
+
+v0.3 Design
+
+I decided to attempt to code 100% from my knowledge of the Blocks to JS, and this one wasn't exactly hard, but it was a bit time consuming, because I *smartly* decided to use the JS editor to manually input the LED commands. I had to look up how to do variables,
+but it's starting to come together.
 
 
 ### Midterm project
