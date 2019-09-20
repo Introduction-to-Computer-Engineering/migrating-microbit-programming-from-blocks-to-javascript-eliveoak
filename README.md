@@ -1,4 +1,4 @@
-# CPE 1040 - Introduction to Computer Engeneering
+# CPE 1040 - Introduction to Computer Engineering
 
 ## Assignment: Migrating micro:bit Programming from Blocks to JavaScript
 
@@ -91,20 +91,24 @@ _**Note:** Add your program descriptions below._
 ### v0.1
 
 **Makes a smiley face then changes to a frowny face. 
+
 [Activity 1](v0.1.js)**
 
 ### v0.2
 
 **Makes an X when A is pressed, and a dot when B is pressed. When A+B are pressed simultaneously, it clears screen.
+
 [Activity 2](v0.2.js)**
 **[etc.]**
 
 ## Designs
 
 v0.1 Design 
+
 Just basically looked at the JS code and edited it to make it something that was *my own* but it was super simple.
 
 v0.2 Design 
+
 I decided to go essentially from the ground up on this one, but due to it being such a simple program again, it was relatively easy.
 
 
