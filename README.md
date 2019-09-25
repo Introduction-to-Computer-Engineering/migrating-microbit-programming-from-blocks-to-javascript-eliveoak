@@ -115,6 +115,12 @@ Scissors, in that relative order.**
 
 [Activity 4](v0.4.js)
 
+### v0.5
+
+**This is a simple program that creates a dot at point 0,0 and makes it move from left to right, while blinking fast. Not a whole lot more to this program unfortuately, just a good introduction to loops and plotting points.***
+
+[Activity 5](v0.5.js)
+
 
 ## Designs
 
@@ -134,6 +140,12 @@ but it's starting to come together.
 v0.4 Design
 
 I successfully wrote this program from scratch, I got a bit stuck on the if else statements but after a little bit of experimenting, I got it all to work. Definitely was a bit faster than even v0.3.
+
+v0.5 Design
+
+I couldn't figure out how to write a repeat command in JS, so I had to find it in blocks to figure out how to do it. After finding how to complete it, I figured out the plot and unplot functionality based on the blocks but without placing them. Hooray! The index changing by 1 just by having it be a different variable is very unintuitive.
+
+
 
 ### Midterm project
 
