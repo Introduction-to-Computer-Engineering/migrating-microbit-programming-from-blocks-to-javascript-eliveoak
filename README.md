@@ -145,6 +145,13 @@ Scissors, in that relative order.**
 
 [Activity 9](v0.9.js)
 
+### v0.10
+
+**This is the basic Morse Code program, on A press, it sends a Dot, on B Press, it sends a dash, and on AB press it sends a break, or pause. it's instantanious with another microbit, where it shows up.**
+
+[Activity 10](v0.10.js)
+
+
 ## Designs
 
 v0.1 Design 
@@ -180,6 +187,11 @@ but after that it went well.
 v0.9 Design
 
 This is the basic program from the activity for translating Binary to Decimal numbers. The math expressions are way easier to type in JS than they are to place in blocks. I thankfully was able to figure out all the variables and how to express them by myself.
+
+v0.10 Design
+
+This is the basic Morse Code program, I had to look up in blocks how to do the recievedNumber variable, because you can't "set" it to a value. Apparently, the recievedNumber variable is built into the "radio" commands.
+
 
 
 ### Midterm project
