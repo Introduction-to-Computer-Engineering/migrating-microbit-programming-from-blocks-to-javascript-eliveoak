@@ -121,6 +121,11 @@ Scissors, in that relative order.**
 
 [Activity 5](v0.5.js)
 
+### v0.6 Mini Project
+
+**Read Design of Mini Project below**
+
+[Mini Project](v0.6.js)
 
 ## Designs
 
@@ -146,22 +151,22 @@ v0.5 Design
 I couldn't figure out how to write a repeat command in JS, so I had to find it in blocks to figure out how to do it. After finding how to complete it, I figured out the plot and unplot functionality based on the blocks but without placing them. Hooray! The index changing by 1 just by having it be a different variable is very unintuitive.
 
 
-
 ### Midterm project
 
-_**Note:** Add your project designs below._
+**Note:**
+I guess I just wanted to mash everything together from the previous activities and projects. I thought long and hard about what I was supposed to do or what I was going to do but I could only draw blanks. I guess my creativity meter is running on empty because I have 7 classes lol. 
 
 #### Goal
 
-**[your short description]**
+**To show that I have learned and applied the previous activities code. My goal was to build this project without looking at the blocks part at all, which was successful.**
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+I essentially had a rough draft that ended up being a final draft. 
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
+**Random rolls, LED Index changing to make an animation, if else tree, showstrings, shownumber, and input**
 
 ### Final project
 
