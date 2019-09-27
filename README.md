@@ -151,6 +151,12 @@ Scissors, in that relative order.**
 
 [Activity 10](v0.10.js)
 
+### v0.11
+
+**This is the basic Charades program, on screen up, it displays a word to act out. on shake, it changes the value so that the word wont come up again**
+
+[Activity 11](v0.11.js)
+
 
 ## Designs
 
@@ -192,6 +198,9 @@ v0.10 Design
 
 This is the basic Morse Code program, I had to look up in blocks how to do the recievedNumber variable, because you can't "set" it to a value. Apparently, the recievedNumber variable is built into the "radio" commands.
 
+v0.11 Design
+
+This is the basic "charades" program, but with my own custom variables which make it kind of impossible. I wasnt sure of the Gesture command, but since the first thing we did in class, I was playing with arrays, so I was relatively up to speed on this.
 
 
 ### Midterm project
