@@ -133,6 +133,12 @@ Scissors, in that relative order.**
 
 [Activity 7](v0.7.js)
 
+### v0.8
+
+**This is the Boolean operation tutorial activity, where a double coin-flip game is created and then executed. On button A press, the game is initiated and the winner is displayed. On button B, the score for Player A is shown, and then the score for Player B is shown.
+
+[Activity 8](v0.8.js)
+
 
 ## Designs
 
@@ -161,6 +167,10 @@ v0.7 Design
 
 I was luckily able to figure out all the LED plot commands and I remembered both of the math functions properly so everything worked. Woo!
 
+v0.8 Design
+
+This is just the basic Boolean tutorial activity. I didn't know what the boolean operator was to have a random one be picked,
+but after that it went well.
 
 ### Midterm project
 
