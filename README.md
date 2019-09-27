@@ -129,7 +129,9 @@ Scissors, in that relative order.**
 
 ### v0.7 
 
-**This is just the LED plotting, animations, and the random pattern generator. On start, it creates a face which alternates from :) to :O, on button A press, it makes a random pattern.
+**This is just the LED plotting, animations, and the random pattern generator. On start, it creates a face which alternates from :) to :O, on button A press, it makes a random pattern.**
+
+[Activity 7](v0.7.js)
 
 
 ## Designs
