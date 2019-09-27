@@ -127,6 +127,11 @@ Scissors, in that relative order.**
 
 [Mini Project](v0.6.js)
 
+### v0.7 
+
+**This is just the LED plotting, animations, and the random pattern generator. On start, it creates a face which alternates from :) to :O, on button A press, it makes a random pattern.
+
+
 ## Designs
 
 v0.1 Design 
@@ -149,6 +154,10 @@ I successfully wrote this program from scratch, I got a bit stuck on the if else
 v0.5 Design
 
 I couldn't figure out how to write a repeat command in JS, so I had to find it in blocks to figure out how to do it. After finding how to complete it, I figured out the plot and unplot functionality based on the blocks but without placing them. Hooray! The index changing by 1 just by having it be a different variable is very unintuitive.
+
+v0.7 Design
+
+I was luckily able to figure out all the LED plot commands and I remembered both of the math functions properly so everything worked. Woo!
 
 
 ### Midterm project
