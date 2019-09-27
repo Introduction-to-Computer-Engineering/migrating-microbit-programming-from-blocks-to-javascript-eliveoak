@@ -139,6 +139,11 @@ Scissors, in that relative order.**
 
 [Activity 8](v0.8.js)
 
+### v0.9
+
+**This is the Binary translator from the assignment page, on button A press it adds a 1, and button B press it adds a 0. It then adds these together to a decimal number. On buttons AB, it shows the number.**
+
+[Activity 9](v0.9.js)
 
 ## Designs
 
@@ -171,6 +176,11 @@ v0.8 Design
 
 This is just the basic Boolean tutorial activity. I didn't know what the boolean operator was to have a random one be picked,
 but after that it went well.
+
+v0.9 Design
+
+This is the basic program from the activity for translating Binary to Decimal numbers. The math expressions are way easier to type in JS than they are to place in blocks. I thankfully was able to figure out all the variables and how to express them by myself.
+
 
 ### Midterm project
 
