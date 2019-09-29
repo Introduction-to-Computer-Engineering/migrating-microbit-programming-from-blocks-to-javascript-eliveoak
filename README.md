@@ -234,7 +234,7 @@ I essentially had a rough draft that ended up being a final draft.
 
 ### Final project
 
-**Note** 
+**Note:** 
 I ran out of creative juices for the final project, probably due to me having a bunch of classes like whew. I decided to make a program where you can move something around pretty fluidly, without any real issues, and perhaps convert it to like a D-Pad, Joystick, etc. I ended up just plotting an LED and moving it around with the different inputs of the micro:bit, and the biggest thing that I set for myself was that I wasn't going to even look at the blocks part, until it was completely over, and I could essentially make sure that the editor could still recognize everything. Needless to say, everything went pretty well.
 
 ### Goal
