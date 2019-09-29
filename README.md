@@ -161,6 +161,7 @@ Scissors, in that relative order.**
 
 **See Final Project Design at bottom of page**
 
+[Final Project](v0.12.js)
 
 ## Designs
 
@@ -217,6 +218,8 @@ See Final project below
 
 ### Midterm project
 
+[Midterm project](v0.6.js)
+
 **Note:**
 I guess I just wanted to mash everything together from the previous activities and projects. I thought long and hard about what I was supposed to do or what I was going to do but I could only draw blanks. I guess my creativity meter is running on empty because I have 7 classes lol. 
 
@@ -233,6 +236,8 @@ I essentially had a rough draft that ended up being a final draft.
 **Random rolls, LED Index changing to make an animation, if else tree, showstrings, shownumber, and input**
 
 ### Final project
+
+[Final project](v0.12.js)
 
 **Note:** 
 I ran out of creative juices for the final project, probably due to me having a bunch of classes like whew. I decided to make a program where you can move something around pretty fluidly, without any real issues, and perhaps convert it to like a D-Pad, Joystick, etc. I ended up just plotting an LED and moving it around with the different inputs of the micro:bit, and the biggest thing that I set for myself was that I wasn't going to even look at the blocks part, until it was completely over, and I could essentially make sure that the editor could still recognize everything. Needless to say, everything went pretty well.
