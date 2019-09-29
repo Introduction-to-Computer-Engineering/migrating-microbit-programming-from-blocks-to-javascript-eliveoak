@@ -157,6 +157,10 @@ Scissors, in that relative order.**
 
 [Activity 11](v0.11.js)
 
+### v0.12
+
+**See Final Project Design at bottom of page**
+
 
 ## Designs
 
@@ -181,6 +185,10 @@ v0.5 Design
 
 I couldn't figure out how to write a repeat command in JS, so I had to find it in blocks to figure out how to do it. After finding how to complete it, I figured out the plot and unplot functionality based on the blocks but without placing them. Hooray! The index changing by 1 just by having it be a different variable is very unintuitive.
 
+v0.6 Design
+
+See Mini-Project Below
+
 v0.7 Design
 
 I was luckily able to figure out all the LED plot commands and I remembered both of the math functions properly so everything worked. Woo!
@@ -202,6 +210,10 @@ v0.11 Design
 
 This is the basic "charades" program, but with my own custom variables which make it kind of impossible. I wasnt sure of the Gesture command, but since the first thing we did in class, I was playing with arrays, so I was relatively up to speed on this.
 
+v0.12 Design
+
+See Final project below
+
 
 ### Midterm project
 
@@ -222,4 +234,17 @@ I essentially had a rough draft that ended up being a final draft.
 
 ### Final project
 
-**[etc.]**
+**Note** 
+I ran out of creative juices for the final project, probably due to me having a bunch of classes like whew. I decided to make a program where you can move something around pretty fluidly, without any real issues, and perhaps convert it to like a D-Pad, Joystick, etc. I ended up just plotting an LED and moving it around with the different inputs of the micro:bit, and the biggest thing that I set for myself was that I wasn't going to even look at the blocks part, until it was completely over, and I could essentially make sure that the editor could still recognize everything. Needless to say, everything went pretty well.
+
+### Goal
+
+**The end goal that I had for myself was creating something that I could use in the future, when we start adding things to the Micro:Bit for our Class final project. I feel like having knowledge of integrated input devices or how to implement them would be valuable, so I decided to go with something where I could input different directions.**
+
+### Design Process
+
+The left movement is done with A, because it is on the left side of the Micro:Bit, and likewise for button B. I decided on Shake for moving up, because its relatively simple, and down is done with AB. I'm assuming that either when you have an external input device it can send inputs directly to it, or that it will remap functions of the Micro:Bit.
+
+### JS Constructs & objects
+
+**LED plotting, LED movement, multiple input methods, updating screen, if then trees**
