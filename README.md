@@ -161,7 +161,7 @@ Scissors, in that relative order.**
 
 **See Final Project Design at bottom of page**
 
-[Final Project](v1.0js)
+[Final Project](v1.0.js)
 
 ## Designs
 
